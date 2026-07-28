@@ -137,6 +137,10 @@ body {
 
 }
 
+a{
+
+  color: white;
+}
 .retn {
   color: white;
   margin-left: 17px;
@@ -405,10 +409,10 @@ border: 1px solid transparent;
 }
 
 .itemheadbox {
- margin: 0;
+ margin-left: 17px;
  gap: 2px;
   height: auto;
-  width: 100%;
+  width: 97%;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   background-color: rgb(228, 223, 223);
